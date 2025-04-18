@@ -5,7 +5,7 @@ All about creating my first active directory lab for fun
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
 - <b>Kali-linux</b> 
 
